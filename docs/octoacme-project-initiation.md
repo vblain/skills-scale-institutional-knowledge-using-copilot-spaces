@@ -17,7 +17,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Stakeholder list & communication plan
 - High-level timeline and key milestones
 - Initial risk list
-- Resource needs (team roles, rough effort estimate)
+- Resource needs (team roles, rough effort estimate, and cross-functional coverage)
 
 ## Project One-pager Template
 - Project name:
@@ -28,6 +28,14 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
 - Proposed team / roles:
+  - Product Manager / Product Lead:
+  - Project Manager:
+  - Developers:
+  - UX/UI Designer:
+  - Business Analyst:
+  - DevOps Engineer:
+  - QA/Testing:
+  - Technical Writer:
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
@@ -35,6 +43,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Confirm cross-functional owners for UX/UI, BA, DevOps, QA, and documentation
 
 ## Decision Gate
 Move to planning when:

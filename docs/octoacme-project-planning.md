@@ -12,9 +12,10 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 1. Kickoff meeting with stakeholders and delivery team
 2. Create prioritized backlog with acceptance criteria
 3. Estimate scope (T-shirt sizing or story points)
-4. Define Definition of Done (DoD)
+4. Define Definition of Done (DoD), including QA and documentation expectations
 5. Identify dependencies and integration points
-6. Create release plan and milestone map
+6. Confirm cross-functional handoffs (UX/UI, BA, DevOps, QA, Technical Writing)
+7. Create release plan and milestone map
 
 ## Backlog Item Template
 - Title:
@@ -29,6 +30,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Timebox planning to agreed sprint length
 - Pull items that meet DoD and have clear acceptance criteria
 - Ensure team capacity is respected
+- Include UX/UI review needs, QA test scope, DevOps environment tasks, and documentation updates
 
 ## Risk & Dependency Management
 - Capture in Risk Register:
@@ -41,3 +43,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] UX/UI deliverables and handoff points planned
+- [ ] Business Analyst validation of requirements and edge cases completed
+- [ ] DevOps dependencies (environments, CI/CD, observability) captured
+- [ ] Documentation ownership and release note inputs assigned
