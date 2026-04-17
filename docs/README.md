@@ -2,7 +2,7 @@
 
 Welcome! This README is the entrypoint for OctoAcme project management documentation. Use it to quickly understand how projects are run, find the right process guide, and onboard new contributors with a single source of truth.
 
-OctoAcme’s project management approach is built on clear ownership, iterative delivery, and strong communication so teams can consistently deliver high-quality, customer-focused outcomes. Core roles include Product Managers (vision and prioritization), Project Managers (execution coordination, risk, and stakeholder communication), Developers (design, implementation, and testing), and QA/Testing personnel (validation against acceptance criteria). Across the lifecycle, shared artifacts such as project charters, backlog items, release plans, and risk registers keep work transparent and structured.
+OctoAcme’s project management approach is built on clear ownership, iterative delivery, and strong communication so teams can consistently deliver high-quality, customer-focused outcomes. Core roles include Product Managers (vision and prioritization), Project Managers (execution coordination, risk, and stakeholder communication), Developers (implementation), UX/UI Designers (experience and accessibility), Business Analysts (requirements and process clarity), DevOps Engineers (delivery infrastructure and operations), QA/Testing personnel (validation against acceptance criteria), and Technical Writers (documentation quality). Across the lifecycle, shared artifacts such as project charters, backlog items, release plans, and risk registers keep work transparent and structured.
 
 Projects begin with structured initiation: ideas are validated through one-pagers that define objectives, stakeholders, timelines, and major risks. During planning, work is split into incremental, shippable backlog items with clear estimates, dependencies, and acceptance criteria. Execution is supported by regular standups, delivery syncs, and milestone demos, typically tracked in GitHub Projects from backlog through QA to done. Blockers are escalated through explicit paths so teams can resolve issues quickly at the right level.
 
@@ -18,3 +18,4 @@ Communication is continuous and audience-aware: PM/PdM alignment syncs, team sta
 - [Release & Deployment Guide](./octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & Personas](./octoacme-roles-and-personas.md)
+- [Role Alignment & Handoff Checklist](./octoacme-role-alignment-and-handoff-checklist.md)

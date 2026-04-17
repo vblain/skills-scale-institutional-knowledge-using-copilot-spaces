@@ -17,7 +17,11 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- UX/UI Designer: defines user flows, interaction behavior, and accessibility expectations.
+- Business Analyst: clarifies business rules, process impact, and acceptance criteria details.
+- DevOps Engineer: owns deployment pipelines, environment readiness, and observability.
+- QA/Testing: validates quality and acceptance criteria.
+- Technical Writer: maintains release notes, user docs, and operational guidance.
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts
@@ -36,8 +40,9 @@ Applies to all cross-functional projects that deliver product features, services
 5. Close & Retrospective: capture learnings and next steps.
 
 ## Communication Cadence
-- Weekly sync between PM + PdM
+- Weekly sync between PM + PdM (+ UX/UI/BA as needed for scope and requirements)
 - Twice-weekly standups for delivery team (or as agreed)
+- Weekly release-readiness check with Dev, QA, and DevOps for active releases
 - Monthly stakeholder updates
 - Ad-hoc escalations as needed
 
